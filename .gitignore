@@ -1,0 +1,13 @@
+# Dependency directory
+node_modules
+
+#generated files
+app/build
+
+#local files
+local*.json
+
+# Webstorm project settings
+.idea/**
+
+.DS_Store
